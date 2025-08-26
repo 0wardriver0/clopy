@@ -4,6 +4,9 @@ A TUI clipboard history manager for Linux
 Clopy makes it easy to manage and reuse your clipboard history — all without leaving the terminal.  
 Built with simplicity in mind, it’s packaged as a `.deb` for easy installation on Debian-based systems.  
 
+![clopy Screenshot](https://github.com/0wardriver0/clopy/blob/main/clopy.png)
+
+
 ---
 
 ## ✨ Features
